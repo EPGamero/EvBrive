@@ -1,0 +1,13 @@
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Conexion\obj\Debug\netcoreapp3.1\Datos.pdb

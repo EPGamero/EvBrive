@@ -1,0 +1,10 @@
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\bin\Debug\netcoreapp3.1\Modelo.deps.json
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.AssemblyReference.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfoInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfo.cs
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Modelo\obj\Debug\netcoreapp3.1\Modelo.pdb

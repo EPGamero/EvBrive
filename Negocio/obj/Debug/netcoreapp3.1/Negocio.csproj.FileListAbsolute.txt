@@ -1,0 +1,15 @@
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb
