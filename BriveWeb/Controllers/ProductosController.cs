@@ -4,43 +4,43 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Web.Mvc;
+
 
 namespace BriveWeb.Controllers
 {
-    public class ProductosController : System.Web.Mvc.Controller
+    public class ProductosController : Controller
     {
         public IActionResult Index()
         {
             return (IActionResult)View();
         }
-        public System.Web.Mvc.JsonResult GetAll()
+        public JsonResult GetAll()
         {
-            return Json(Negocio.Producto.GetAll().Datos, JsonRequestBehavior.AllowGet);
+            return Json(Negocio.Producto.GetAll().Datos);
         }
 
-        public System.Web.Mvc.JsonResult GetById(Productos producto)
+        public JsonResult GetById(Productos producto)
         {
             var request = Negocio.Producto.GetById(producto).Datos.FirstOrDefault();
-            return Json(request, JsonRequestBehavior.AllowGet);
+            return Json(request);
         }
 
-        public System.Web.Mvc.JsonResult Add(Productos producto)
+        public JsonResult Add(Productos producto)
         {
             var request = Negocio.Producto.Add(producto);
-            return Json(request, JsonRequestBehavior.AllowGet);
+            return Json(request);
         }
 
-        public System.Web.Mvc.JsonResult Update(Productos producto)
+        public JsonResult Update(Productos producto)
         {
             var request = Negocio.Producto.Update(producto);
-            return Json(request, JsonRequestBehavior.AllowGet);
+            return Json(request);
         }
 
-        public System.Web.Mvc.JsonResult Delete(Productos producto)
+        public JsonResult Delete(Productos producto)
         {
             var request = Negocio.Producto.Delete(producto);
-            return Json(request, JsonRequestBehavior.AllowGet);
+            return Json(request);
         }
     }
 }

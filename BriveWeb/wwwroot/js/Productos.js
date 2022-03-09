@@ -44,8 +44,14 @@ function GetById(Id) {
         dataType: "json",
         success: function (result) {
 
-            //$('#DepartmentId').val(result.DepartamentId);
-            //$('#DepartmentName').val(result.DepartamentName);
+            $('#idProducto').val(result.idProducto);
+            $('#NombreP').val(result.Nombre);
+            $('#PrecioP').val(result.Precio);
+            $('#DescripcionP').val(result.Descripcion);
+            $('#MarcaP').val(result.Marca);
+            $('#ExistenciaP').val(result.Existencia);
+            $('#ProveedorP').val(result.Proveedor.idProveedor);
+            $('#CategoriaP').val(result.Categoria.idCategoria);
 
             $('#myModal').modal('show');
             $('#btnUpdate').show();
@@ -62,14 +68,14 @@ function GetById(Id) {
 
 function Update() {
         var prodObj = {
-            idProducto: $('#DepartmentId').val(),
-            Nombre: $('#DepartmentName').val(),
-            Precio: $('#DepartmentId').val(),
-            Descripcion $('#DepartmentName').val(),
-            Marca: $('#DepartmentId').val(),
-            Existencia: $('#DepartmentName').val(),
-            Proveedor.idProveedor: $('#DepartmentId').val(),
-            Categoria.idCategoria: $('#DepartmentName').val(),
+            idProducto: $('#idProducto').val(),
+            Nombre: $('#NombreP').val(),
+            Precio: $('#PrecioP').val(),
+            Descripcion: $('#DescripcionP').val(),
+            Marca: $('#MarcaP').val(),
+            Existencia: $('#ExistenciaP').val(),
+            Proveedor.idProveedor: $('#ProveedorP').val(),
+            Categoria.idCategoria: $('#CategoriaP').val(),
         };
         $.ajax({
             url: "/Productos/Update",
@@ -116,15 +122,15 @@ function Delete(Id) {
 
 
 function Add() {
-        var prodObj = {
-            Nombre: $('#DepartmentName').val(),
-            Precio: $('#DepartmentId').val(),
-            Descripcion $('#DepartmentName').val(),
-            Marca: $('#DepartmentId').val(),
-            Existencia: $('#DepartmentName').val(),
-            Proveedor.idProveedor: $('#DepartmentId').val(),
-            Categoria.idCategoria: $('#DepartmentName').val(),
-        };
+    var prodObj = {
+        Nombre: $('#NombreP').val(),
+        Precio: $('#PrecioP').val(),
+        Descripcion: $('#DescripcionP').val(),
+        Marca: $('#MarcaP').val(),
+        Existencia: $('#ExistenciaP').val(),
+        Proveedor.idProveedor: $('#ProveedorP').val(),
+        Categoria.idCategoria: $('#CategoriaP').val(),
+    };
         $.ajax({
             url: "/Department/Add",
             data: JSON.stringify(prodObj),

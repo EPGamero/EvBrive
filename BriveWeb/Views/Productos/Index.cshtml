@@ -1,0 +1,116 @@
+﻿
+
+
+<div class="container">
+    <center>
+        <h2>Inventario de Productos</h2>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" onclick="clearTextBox();">Agregar nuevo producto</button><br /><br />
+    </center>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Id Producto
+                </th>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    Precio
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Marca
+                </th>
+                <th>
+                    Existencia
+                </th>
+                <th>
+                    Proveedor
+                </th>
+                <th>
+                    Categoria
+                </th>
+                <th>
+                    Acciones
+                </th>
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+
+
+
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                    <h4 class="modal-title" id="myModalLabel">Agregar Producto</h4>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <div class="form-group">
+                            <label id="DepartmentIdLabel">Id Producto</label>
+                            <input type="text" class="form-control" id="idProducto"disabled="disabled" />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Name">Nombre</label>
+                            <input type="text" class="form-control" id="NombreP" />
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Precio</label>
+                            <input type="text" class="form-control" id="PrecioP"  />
+
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Name">Descripcion</label>
+                            <input type="text" class="form-control" id="DescripcionP"/>
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Marca	</label>
+                            <input type="text" class="form-control" id="MarcaP"  />
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Existencia</label>
+                            <input type="text" class="form-control" id="ExistenciaP"  />
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Proveedor</label>
+                            <input type="text" class="form-control" id="ProveedorP"  />
+   
+                        </div>
+                        <div class="form-group">
+                            <label for="Name">Categoria</label>
+                            <input type="text" class="form-control" id="CategoriaP"  />
+                  
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Agregar</button>
+                    <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Actualizar</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+</div>
+
+<script src="~/js/Productos.js"></script>

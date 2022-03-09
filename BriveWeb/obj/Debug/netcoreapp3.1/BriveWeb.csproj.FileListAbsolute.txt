@@ -1,3 +1,11 @@
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.csproj.AssemblyReference.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.AssemblyInfoInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.AssemblyInfo.cs
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.csproj.CoreCompileInputs.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.RazorAssemblyInfo.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.RazorAssemblyInfo.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\BriveWeb.exe
@@ -66,14 +74,6 @@ C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Negocio.dl
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Modelo.pdb
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Negocio.pdb
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Datos.pdb
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.csproj.AssemblyReference.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.AssemblyInfoInputs.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.AssemblyInfo.cs
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.csproj.CoreCompileInputs.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.RazorAssemblyInfo.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.RazorAssemblyInfo.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\staticwebassets\BriveWeb.StaticWebAssets.Manifest.cache
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\staticwebassets\BriveWeb.StaticWebAssets.xml
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\BriveWeb.styles.css
@@ -82,6 +82,7 @@ C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.T
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.RazorCoreGenerate.cache
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -94,12 +95,3 @@ C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.c
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.dll
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.pdb
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.genruntimeconfig.cache
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Newtonsoft.JsonResult.dll

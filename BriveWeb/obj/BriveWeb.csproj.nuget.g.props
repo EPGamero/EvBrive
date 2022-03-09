@@ -370,7 +370,4 @@
       <Link>wwwroot\js\bootstrap.min.js.map</Link>
     </Content>
   </ItemGroup>
-  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\ERIK GAMERO\.nuget\packages\newtonsoft.json\6.0.4</PkgNewtonsoft_Json>
-  </PropertyGroup>
 </Project>
