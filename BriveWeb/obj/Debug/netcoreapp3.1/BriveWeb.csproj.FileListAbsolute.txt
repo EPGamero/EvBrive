@@ -94,3 +94,12 @@ C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.c
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.dll
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.pdb
 C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\obj\Debug\netcoreapp3.1\BriveWeb.genruntimeconfig.cache
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ERIK GAMERO\Desktop\EvBrive\BriveWeb\bin\Debug\netcoreapp3.1\Newtonsoft.JsonResult.dll
