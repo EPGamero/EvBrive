@@ -8,11 +8,12 @@ namespace Conexion
     {
         public static string ConnectionString()
         {
-            string connectionString = "";
+            string connectionString = "Data Source=LAPTOP-7L7Q5LQQ;Initial Catalog=ExamenBrive;Integrated Security=True";
             return connectionString;
         }
         public static SqlCommand CreateCommand(string Query, SqlConnection context)
         {
+            context.Open();
             SqlCommand cmd = new SqlCommand(Query, context);
             return cmd;
         }

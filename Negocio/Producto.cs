@@ -36,7 +36,7 @@ namespace Negocio
                             Productos productoItem = new Productos();
                             productoItem.idProducto = Convert.ToInt32(row[0]);
                             productoItem.Nombre = row[1].ToString();
-                            productoItem.Precio = (float)Convert.ToDouble(row[2]);
+                            productoItem.Precio = Convert.ToDouble(row[2]);
                             productoItem.Descripcion = row[3].ToString();
                             productoItem.Marca = row[4].ToString();
                             productoItem.Existencia = Convert.ToInt32(row[5]);
@@ -100,7 +100,7 @@ namespace Negocio
                             Productos productoItem = new Productos();
                             productoItem.idProducto = Convert.ToInt32(row[0]);
                             productoItem.Nombre = row[1].ToString();
-                            productoItem.Precio = (float)Convert.ToDouble(row[2]);
+                            productoItem.Precio = Convert.ToDouble(row[2]);
                             productoItem.Descripcion = row[3].ToString();
                             productoItem.Marca = row[4].ToString();
                             productoItem.Existencia = Convert.ToInt32(row[5]);

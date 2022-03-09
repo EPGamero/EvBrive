@@ -1,6 +1,7 @@
 ﻿using BriveWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Modelo.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

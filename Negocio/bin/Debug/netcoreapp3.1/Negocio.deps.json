@@ -9,7 +9,9 @@
       "Negocio/1.0.0": {
         "dependencies": {
           "Datos": "1.0.0",
-          "Modelo": "1.0.0"
+          "Microsoft.Data.SqlClient": "4.1.0",
+          "Modelo": "1.0.0",
+          "System.Data.SqlClient": "4.8.3"
         },
         "runtime": {
           "Negocio.dll": {}
